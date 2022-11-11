@@ -10,7 +10,8 @@ Mit ASP.NET gibt es für das MVC Design Pattern sehr viel automatisch generierte
 
 ![alt text](https://github.com/momueller2/MVC-ASP.NET/blob/main/Pictures/Bild1.png?raw=true)
 
-Außerdem hat das System schon eigene Designelemente erstellt, die man wenn man möchte auch weiter benutzen kann. So sieht die Website am Anfang des Projektes aus: 
+Außerdem hat das System schon eigene Designelemente erstellt, die man wenn man möchte auch weiter benutzen kann. So sieht die Website am Anfang des Projektes aus:
+
 ![alt text](https://github.com/momueller2/MVC-ASP.NET/blob/main/Pictures/Bild2.png?raw=true)
 
 **Views**
@@ -21,7 +22,8 @@ Die Views in ASP.NET werden mit Razor Pages erstellt. Diese kombinieren die Tags
 
 **Models**
 
-Die Models in ASP.NET sind ganz einfache C# Klassen, die als Attribute die gewünschte Struktur der Daten haben, die später auch auf der Datenbank so aufgebaut sein soll. Die Models können in ASP.NET später ganz einfach über ein Entity Framework mit einer Datenbank verbunden werden, die dann die gleiche Struktur wie die Model Klasse aufweist. 
+Die Models in ASP.NET sind ganz einfache C# Klassen, die als Attribute die gewünschte Struktur der Daten haben, die später auch auf der Datenbank so aufgebaut sein soll. Die Models können in ASP.NET später ganz einfach über ein Entity Framework mit einer Datenbank verbunden werden, die dann die gleiche Struktur wie die Model Klasse aufweist.
+
 ![alt text](https://github.com/momueller2/MVC-ASP.NET/blob/main/Pictures/Bild4.png?raw=true)
 
 **Controller**
